@@ -7,6 +7,7 @@ I'm Tin, a commercial and finance-focused analyst from 🇭🇰 Hong Kong.
 * 🔎 Loves data - I enter my every day's spending and screen time into Excel!
 
 ### 🌱 My Projects
+* [Daily-updating HSI Market Risk Report](https://github.com/lzktin/Market-Risk-Report-Hang-Seng-Index-HSI-/tree/feature) (Completed Sep 14)
 * [8-Week SQL Challenge](https://github.com/lzktin/8-Week-SQL-Challenge) (Last updated Sep 8, Ongoing)
 * [Amazon Catalog Analysis](https://github.com/linzhongkuan/Amazon_Catalog_Analysis) (Completed Aug 31)
 * [Predicting Loan Default with Machine Learning](https://github.com/linzhongkuan/Predicting_Loan_Defaults_With_Machine_Learning) (Completed Aug 25)
