@@ -9,7 +9,7 @@ I'm Tin, a commercial and finance-focused analyst from 🇭🇰 Hong Kong.
   - Tech Stack: Python, SQL, TypeScript
 * [Daily-updating HSI Market Risk Report](https://github.com/lzktin/Market-Risk-Report-Hang-Seng-Index-HSI-/tree/main) (Completed Sep 14)
   - Tech Stack: Python
-* [8-Week SQL Challenge](https://github.com/lzktin/8-Week-SQL-Challenge) (Last updated Oct 21, Ongoing)
+* [8-Week SQL Challenge](https://github.com/lzktin/8-Week-SQL-Challenge) (Completed Oct 28)
   - Tech Stack: SQL
 * [Amazon Catalog Analysis](https://github.com/linzhongkuan/Amazon_Catalog_Analysis) (Completed Aug 31)
   - Tech Stack: Tableau
