@@ -2,7 +2,7 @@
 I make accessible and maintainable stock analysis apps. Here, you can find my projects. 
 
 ### Latest Projects
-* [HKEX Stock Correlation Monitor](https://github.com/lzktin/hkex_stocks_front) (Last updated Nov 14)
+* [HKEX Stock Board](https://github.com/lzktin/hkex_stocks_front) (Last updated Nov 14)
   - Tech Stack: Python, SQL, TypeScript
 * [Daily-updating HSI Market Risk Report](https://github.com/lzktin/Market-Risk-Report-Hang-Seng-Index-HSI-/tree/main) (Completed Sep 14)
   - Tech Stack: Python
