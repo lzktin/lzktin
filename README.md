@@ -5,7 +5,7 @@ I'm Tin, a commercial and finance-focused analyst from 🇭🇰 Hong Kong.
 * 🔎 Loves data - I enter my every day's spending and screen time into Excel!
 
 ### 🌱 My Projects
-* [HKEX Stock Correlation Monitor](https://github.com/lzktin/hkex_stocks_front) (Last updated Oct 16, Ongoing)
+* [HKEX Stock Correlation Monitor](https://github.com/lzktin/hkex_stocks_front) (Last updated Nov 14)
   - Tech Stack: Python, SQL, TypeScript
 * [Daily-updating HSI Market Risk Report](https://github.com/lzktin/Market-Risk-Report-Hang-Seng-Index-HSI-/tree/main) (Completed Sep 14)
   - Tech Stack: Python
